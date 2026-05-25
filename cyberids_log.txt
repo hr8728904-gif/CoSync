@@ -1,0 +1,21 @@
+[2026-05-10 11:23:25] [INFO ] ApiServer started on http://localhost:8080
+[2026-05-10 11:23:36] [INFO ] ApiServer stopped.
+[2026-05-10 11:23:47] [INFO ] ApiServer started on http://localhost:8080
+[2026-05-10 11:23:57] [INFO ] ApiServer stopped.
+[2026-05-10 11:26:50] [INFO ] ApiServer started on http://localhost:8080
+[2026-05-10 13:20:02] [INFO ] ApiServer started on http://localhost:8080
+[2026-05-10 13:43:30] [INFO ] ApiServer started on http://localhost:8080
+[2026-05-10 13:43:47] [API  ] Scan complete.
+[2026-05-10 20:25:51] [INFO ] ApiServer started on http://localhost:8080
+[2026-05-10 21:59:26] [INFO ] ApiServer started on http://localhost:8080
+[2026-05-10 22:07:00] [API  ] Scan complete.
+[2026-05-10 22:33:26] [INFO ] ApiServer started on http://localhost:8080
+[2026-05-11 20:32:27] [INFO ] ApiServer started on http://localhost:8080
+[2026-05-11 20:40:02] [API  ] Scan complete.
+[2026-05-12 23:45:58] [INFO ] ApiServer started on http://localhost:8080
+[2026-05-13 09:27:15] [INFO ] ApiServer started on http://localhost:8080
+[2026-05-13 09:27:31] [API  ] Scan complete.
+[2026-05-13 10:34:48] [INFO ] ApiServer started on http://localhost:8080
+[2026-05-13 10:35:02] [API  ] Scan complete.
+[2026-05-13 11:06:34] [INFO ] ApiServer started on http://localhost:8080
+[2026-05-13 11:08:03] [API  ] Scan complete.
